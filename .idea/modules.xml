@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hclHackathon.iml" filepath="$PROJECT_DIR$/.idea/hclHackathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eMobileConnect/mobileconnect.iml" filepath="$PROJECT_DIR$/eMobileConnect/mobileconnect.iml" />
+    </modules>
+  </component>
+</project>
